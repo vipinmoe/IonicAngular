@@ -1,0 +1,7 @@
+{
+  "name": "AngCord",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AngCord",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
